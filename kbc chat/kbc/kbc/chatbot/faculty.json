@@ -1,0 +1,10 @@
+[
+{"Faculty":"BSCCSIT", "Full":"Bachelor of Science-Computer Science and Information Technology", "Years":"4", "Type":"Semester", "Fee":"2930290", "Co-ordinator":"Mr. Dabal Singh Mahara", "Prerequisite":"+2 Science", "Website":"https://kbc.edu.np/index.php/programs/bsc-cist", "Affiliated":"Tribhuvan University"},
+{"Faculty":"CSIT", "Full":"Bachelor of Science-Computer Science and Information Technology", "Years":"4", "Type":"Semester", "Fee":"2930290", "Co-ordinator":"Mr. Dabal Singh Mahara", "Prerequisite":"+2 Science", "Website":"https://kbc.edu.np/index.php/programs/bsc-cist", "Affiliated":"Tribhuvan University"},
+{"Faculty":"BCA","Full":"Bachelor in Computer Application", "Years":"4", "Type":"Semester", "Fee":"4324324", "Co-ordinator":"Er. Kumar Prasun", "Prerequisite":"+2 Sci/Mgmt", "Website":"https://kbc.edu.np/index.php/programs/bca", "Affiliated":"Tribhuvan University"}, 
+{"Faculty":"BBM", "Full":"Bachelor in Business Management", "Years":"4", "Type":"Yearly", "Fee":"435435", "Co-ordinator":"#######", "Prerequisite":"+2 Sci/Mgmt", "Website":"https://kbc.edu.np/index.php/programs/bbm", "Affiliated":"Tribhuvan University"}, 
+{"Faculty":"BBS", "Full":"Bachelor in Business Studies", "Years":"4", "Type":"Yearly", "Fee":"423463", "Co-ordinator":"######", "Prerequisite":"+2 Sci/Mgmt", "Website":"https://kbc.edu.np/index.php/programs/bbs", "Affiliated":"Tribhuvan University"}, 
+{"Faculty":"MBS", "Full":"Master in Business Studies", "Years":"2", "Type":"Semester", "Fee":"423432564", "Co-ordinator":"######", "Prerequisite":"BBS", "Website":"https://kbc.edu.np/index.php/programs/mbs", "Affiliated":"Tribhuvan University"}, 
+{"Faculty":"BASW", "Full":"Bachelor in Social Work", "Years":"3", "Type":"Yearly", "Fee":"32325554", "Co-ordinator":"######", "Prerequisite":"+2 Sci/Mgmt",  "Website":"https://kbc.edu.np/index.php/programs/ba-bsw", "Affiliated":"Tribhuvan University"},
+{"Faculty":"BSW", "Full":"Bachelor in Social Work", "Years":"3", "Type":"Yearly", "Fee":"32325554", "Co-ordinator":"######", "Prerequisite":"+2 Sci/Mgmt",  "Website":"https://kbc.edu.np/index.php/programs/ba-bsw", "Affiliated":"Tribhuvan University"}
+]

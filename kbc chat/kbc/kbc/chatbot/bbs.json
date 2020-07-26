@@ -1,0 +1,6 @@
+[
+{"Year":"FIRST","Subjects":["MGT-201:Business English Management","MGT-202:Business Statistics Management","MGT203:Business Micro Economics","MGT-211:Accounting for Financial Analysis and Planning Management","MGT-213:Principle of Managements"],"Electives":[],"Shift":"Day","Year_fee":"122242"},
+{"Year":"SECOND","Subjects":["MGT-205:Basic Business Communication","MGT-206:Business Macro Economics","MGT-212:Cost and Management Accountin","MGT-214:Fundamentals of Marketing","MGT-216:Foundations of Human Resource Management "],"Electives":[],"Shift":"Day","Year_fee":"122242"},
+{"Year":"THIRD","Subjects":["MGT-204:Business Law","MGT-215:Fundamentals of Financial Management","MGT-217:Business Environment and Strategic Management","MGT-218:Fundamentals of Taxation and Auditing Management","MGT-219:Organizational Behavior Management"],"Electives":[],"Shift":"Day","Year_fee":"122242"},
+{"Year":"FOURTH","Subjects":["MGT-220:Entrepreneurship and Enterprise Development","MGT-221:Business Research Methods"],"Electives":[],"Shift":"Day","Year_fee":"122242"}
+]
